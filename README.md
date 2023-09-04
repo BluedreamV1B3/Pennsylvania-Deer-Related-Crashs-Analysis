@@ -1,8 +1,8 @@
 # Deer Related Crash(Pennsylvania) Analysis
 
-Github may not show the below geographic map, click [here](https://nbviewer.org/github/BluedreamV1B3/data-science-portfolio/blob/main/.ipnyb_checkpoints/Pennsylvania%20Deer%20Related%20Crash%20Analysis.ipynb) to lead to nbviewer!
-
 Having come from Taiwan to pursue a master's degree in Philadelphia, my first day in Pennsylvania proved to be unsettling as I witnessed a tragic incident where a severely deformed deer lay lifeless by the roadside, covered in blood. In Taiwan, deer are cherished animals and are protected by the government, often found in the comforting confines of zoo enclosures. Motivated by this jarring experience, I am now determined to gather statistics on such occurrences in Pennsylvania and explore measures to safeguard both humans and deer.
+
+Github may not show the below geographic map, click [here](https://nbviewer.org/github/BluedreamV1B3/data-science-portfolio/blob/main/.ipnyb_checkpoints/Pennsylvania%20Deer%20Related%20Crash%20Analysis.ipynb) to lead to nbviewer!
 
 ## Summary 
 
